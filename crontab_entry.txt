@@ -1,0 +1,4 @@
+# this is set to run top of the hour, 1AM, each Monday - Note this is UTC
+# that is 9PM each Sunday night EST
+0 1 * * 1 /home/azureuser/how/location/location.sh > /home/azureuser/how/location/cron.log 2>&1
+

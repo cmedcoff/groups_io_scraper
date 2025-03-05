@@ -1,0 +1,6 @@
+beautifulsoup4
+diskcache
+python-dotenv
+playwright
+#selenium
+#webdriver-manager

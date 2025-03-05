@@ -1,0 +1,13 @@
+# skip python virtual environments
+**/env
+
+# skip py cache
+**/__pycache__
+
+# skip log files
+**/*.log
+
+# skip the html index cache
+htmlindex
+
+member_mapping.csv
